@@ -1,0 +1,22 @@
+{
+  "name": "js-train-1",
+  "version": "1.0.0",
+  "description": "creating homeWork",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timochka030/js-train-1.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "timochka030",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/timochka030/js-train-1/issues"
+  },
+  "homepage": "https://github.com/timochka030/js-train-1#readme"
+}
